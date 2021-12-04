@@ -1,0 +1,22 @@
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  border: 2px solid red;
+  height: 2.5rem;
+}
+
+.links-home,
+.links-add {
+  color: #2da8d8ff;
+  text-decoration: none;
+  margin: 0 2rem 0 2rem;
+}
+
+@media (min-width: 768px) {
+  .links {
+    height: 3.5rem;
+    font-size: 1.5rem;
+  }
+}
