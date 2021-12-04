@@ -10,7 +10,9 @@ function App() {
   return (
     <Router>
       <div className="app">
-        <div className="navbar">{/* <NavBar /> */}</div>
+        <div className="navbar">
+          <NavBar />
+        </div>
         <Switch>
           <Route exact path="/" component={Home} />
           {/* <Route exact path="/add-phone" component={AddPhone} /> */}
