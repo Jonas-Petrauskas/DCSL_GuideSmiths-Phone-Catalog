@@ -1,0 +1,61 @@
+.form-name,
+.form-manufacturer,
+.form-description,
+.form-color,
+.form-price,
+.form-imageFileName,
+.form-screen,
+.form-processor,
+.form-ram {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: left;
+  width: 10rem;
+}
+
+input {
+  text-align: center;
+  outline: 1px solid red;
+  background-color: black;
+  color: #2da8d8ff;
+  font-family: "Orbitron", sans-serif;
+  width: 10rem;
+}
+
+.button-container {
+  margin-top: 2rem;
+}
+
+button {
+  width: 6.26rem;
+  height: 2rem;
+  background-color: black;
+  border: 1px solid red;
+  color: #2da8d8ff;
+  font-family: "Orbitron", sans-serif;
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 1.25rem;
+    width: 13rem;
+  }
+
+  input {
+    height: 1.5rem;
+    width: 12rem;
+    font-size: 1rem;
+    font-family: "Orbitron", sans-serif;
+  }
+
+  button {
+    font-size: 1rem;
+    width: 7.5rem;
+    font-family: "Orbitron", sans-serif;
+  }
+}
