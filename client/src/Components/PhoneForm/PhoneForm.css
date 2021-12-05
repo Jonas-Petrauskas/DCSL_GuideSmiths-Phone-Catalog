@@ -28,7 +28,7 @@ input {
 }
 
 .button-container {
-  margin-top: 2rem;
+  margin: 2rem 0 2rem 0;
 }
 
 button {
