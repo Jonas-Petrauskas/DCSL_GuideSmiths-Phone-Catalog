@@ -4,6 +4,11 @@
 
 Created from scratch Phone Catalog with - React for Frontend, Express, and Mongoose for Backend.
 
+## Example video
+
+https://user-images.githubusercontent.com/74493215/144739925-99031a84-b605-42f2-ace5-6c11e586cfc4.mov
+
+
 ### The functionality includes:
 
 - Navigation between pages through Navbar.
