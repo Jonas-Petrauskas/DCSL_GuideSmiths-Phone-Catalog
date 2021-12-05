@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/74493215/144739925-99031a84-b605-42f2-
 $ npm install https://github.com/Jonas-Petrauskas/DCSL_GuideSmiths-Phone-Catalog.git
 ```
 
-2. Install node_modules in the root folder, client and server.
+2. Install dependencies in the root folder, client and server.
 
 ```
 $ npm install
